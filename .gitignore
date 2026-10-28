@@ -1,0 +1,6 @@
+.DS_Store
+audio/
+transcripts/
+*.wav
+node_modules/
+.data/
